@@ -3,10 +3,22 @@
 </p>
 
 <p align="center">
-  <a href="mailto:niloyhasanfoysal440@gmail.com"><img src="https://img.shields.io/badge/Email-071426?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abdullah-al-foysal1"><img src="https://img.shields.io/badge/LinkedIn-071426?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=cQ_zolQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-071426?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Google Scholar" /></a>
-  <a href="https://researcher-palette.lovable.app"><img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="mailto:niloyhasanfoysal440@gmail.com">
+    <img src="https://img.shields.io/badge/Email-071426?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdullah-al-foysal1">
+    <img src="https://img.shields.io/badge/LinkedIn-071426?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=cQ_zolQAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-071426?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Google Scholar" />
+  </a>
+
+  <a href="https://researcher-palette.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=Foysal-A-Al&style=for-the-badge&color=6d5dfc&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
