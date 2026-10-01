@@ -22,6 +22,74 @@
   <img src="https://komarev.com/ghpvc/?username=Foysal-A-Al&style=for-the-badge&color=6d5dfc&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
+---
+
+## 🏆 Achievement Badges
+
+<p align="center">
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🌟-Research%20Excellence-4C1D95?style=for-the-badge" alt="Research Excellence" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🧠-AI%20Architect-667EEA?style=for-the-badge" alt="AI Architect" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/📊-Data%20Science%20Master-2E7D32?style=for-the-badge" alt="Data Science Master" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🔬-Publication%20Scholar-D84315?style=for-the-badge" alt="Publication Scholar" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/💡-Innovation%20Contributor-F57F17?style=for-the-badge" alt="Innovation Contributor" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🎯-Healthcare%20AI%20Specialist-C2185B?style=for-the-badge" alt="Healthcare AI Specialist" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🔮-Computational%20Psychiatry-00897B?style=for-the-badge" alt="Computational Psychiatry" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/👁️-Computer%20Vision%20Expert-FF6F00?style=for-the-badge" alt="Computer Vision Expert" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/📚-Trusted%20Researcher-1565C0?style=for-the-badge" alt="Trusted Researcher" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/⚙️-MLOps%20Engineer-424242?style=for-the-badge" alt="MLOps Engineer" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🧬-Multimodal%20AI%20Specialist-7B1FA2?style=for-the-badge" alt="Multimodal AI Specialist" />
+  </a>
+  <a href="https://github.com/Foysal-A-Al?tab=achievements">
+    <img src="https://img.shields.io/badge/🎓-University%20Researcher-D32F2F?style=for-the-badge" alt="University Researcher" />
+  </a>
+</p>
+
+### Achievement Criteria Unlocked
+
+| Achievement | Description | Proof |
+|:---|:---|:---|
+| **Research Excellence** | Multiple research-grade repositories with scientific impact | PsychoGraph-Net, NeuroFusion, PyEyesWeb |
+| **AI Architect** | Advanced deep learning architecture design (GCN, Transformers, Attention) | GCN + Transformer fusion in psychiatric prediction |
+| **Data Science Master** | Comprehensive Bayesian and frequentist statistical analysis | MSc Thesis on Model Selection & Comparison |
+| **Publication Scholar** | Published research with Google Scholar profile | Multiple peer-reviewed outputs |
+| **Innovation Contributor** | Novel approaches to unsolved problems | Bipolar disorder rapid-cycling prediction, multimodal HCI |
+| **Healthcare AI Specialist** | Clinical decision support and medical AI systems | NeuroFusion, Clinical Risk Prediction |
+| **Computational Psychiatry** | Specialized in psychiatric modeling and digital phenotyping | PsychoGraph-Net, longitudinal mood analysis |
+| **Computer Vision Expert** | Advanced CV systems (YOLO, optical flow, real-time processing) | Movement analytics, screw classification, traffic signs |
+| **Trusted Researcher** | Rigorous methodology, reproducible science, ethics aware | Calibration, uncertainty, fairness, reproducibility |
+| **MLOps Engineer** | Production-grade infrastructure (Docker, FastAPI, GitHub Actions) | NeuroFusion production setup, deployment ready |
+| **Multimodal AI Specialist** | Fusion of diverse data modalities for prediction | Clinical + behavioral + wearable + imaging data fusion |
+| **University Researcher** | Active research at Casa Paganini InfoMus Lab | Institutional affiliation, collaborative research |
+
+---
+
 <table>
 <tr>
 <td width="28%" align="center" valign="top">
@@ -43,15 +111,15 @@ Open to **PhD positions, research collaborations, and AI roles** focused on heal
 
 ## Research profile
 
-I build machine learning systems for questions where prediction alone is not enough. My work combines **computational psychiatry, clinical and multimodal AI, psychology, human behaviour, explainable machine learning, Bayesian evaluation, and research engineering**.
+I build machine learning systems for questions where prediction alone is not enough. My work combines **computational psychiatry, clinical and multimodal AI, psychology, human behaviour, explainab[...]
 
 My research moves across the full pipeline:
 
 **scientific question → data design → modelling → statistical evaluation → explanation → uncertainty → usable research software**
 
-I currently contribute to research at **Casa Paganini InfoMus Lab, University of Genoa**, working on multimodal HCI, non verbal and expressive behaviour, computer vision, movement analytics, and interactive research tools. My broader portfolio includes psychiatric prediction, treatment response modelling, mental health forecasting, trustworthy clinical AI, statistical model comparison, and production oriented ML prototypes.
+I currently contribute to research at **Casa Paganini InfoMus Lab, University of Genoa**, working on multimodal HCI, non verbal and expressive behaviour, computer vision, movement analytics, and i[...]
 
-> **Research principle:** high accuracy is only one part of a credible system. Healthcare and human centred AI also require calibration, interpretability, reproducibility, subgroup awareness, ethical framing, and clear limits.
+> **Research principle:** high accuracy is only one part of a credible system. Healthcare and human centred AI also require calibration, interpretability, reproducibility, subgroup awareness, ethi[...]
 
 </td>
 </tr>
@@ -120,7 +188,7 @@ Reproducible pipelines, leakage aware splitting, FastAPI, Streamlit, PyQt6, Dock
 
 ### [PsychoGraph-Net](https://github.com/Foysal-A-Al/PsychoGraph-Net)
 
-A graph augmented temporal architecture for bipolar disorder rapid cycling prediction. It combines symptom co occurrence topology with longitudinal symptom dynamics and model agnostic explanation.
+A graph augmented temporal architecture for bipolar disorder rapid cycling prediction. It combines symptom co occurrence topology with longitudinal symptom dynamics and model agnostic explanation[...]
 
 **Methods:** GCN, pre norm Transformer, attention pooling, fusion MLP, Neo4j, LIME  
 **Evidence:** modular PyTorch design, synthetic generator, baselines, evaluation scripts, explainability, reproducible configuration
@@ -179,10 +247,10 @@ A multi factor analysis of psychological, physiological, academic, social, and e
 
 ## Additional engineering work
 
-- **[Screw Identification and Classification System](https://github.com/Foysal-A-Al/Screw-Identification-and-Classification-System):** computer vision tool for industrial hardware identification and specification reporting.
+- **[Screw Identification and Classification System](https://github.com/Foysal-A-Al/Screw-Identification-and-Classification-System):** computer vision tool for industrial hardware identification [...]
 - **[Terraform Production Ready MongoDB](https://github.com/Foysal-A-Al/Terraform-Production-ready-mongodb-project6):** infrastructure as code and production oriented database deployment work.
 - **[PyEyesWeb Clusterability](https://github.com/Foysal-A-Al/PyEyesWeb_Clusterability):** statistical clusterability analysis for behavioural and movement feature spaces.
-- **[PyEyesWeb Statistical Moment Analyzer](https://github.com/Foysal-A-Al/PyEyesWeb_Statistical-Moment-Analyzer):** higher order statistical analysis modules for movement and behavioural signals.
+- **[PyEyesWeb Statistical Moment Analyzer](https://github.com/Foysal-A-Al/PyEyesWeb_Statistical-Moment-Analyzer):** higher order statistical analysis modules for movement and behavioural signals[...]
 - **[Brain Tumor Detection](https://github.com/Foysal-A-Al/Matlab-project-Brain-tumor-detection):** MATLAB image processing and classification prototype for brain MRI analysis.
 
 <p align="center"><img src="./assets/thesis-dashboard.svg" width="100%" alt="Thesis methodology dashboard" /></p>
@@ -209,23 +277,23 @@ This methodology directly influences how I evaluate psychiatric, clinical, and b
 <table>
 <tr>
 <td width="24%"><b>Research Assistant</b></td>
-<td><b>Casa Paganini InfoMus Lab, University of Genoa</b><br>Multimodal HCI, non verbal expressive and social behaviour, optical flow, clustering, behavioural analytics, research dashboards, and reproducible software.</td>
+<td><b>Casa Paganini InfoMus Lab, University of Genoa</b><br>Multimodal HCI, non verbal expressive and social behaviour, optical flow, clustering, behavioural analytics, research dashboards, and [...]
 </tr>
 <tr>
 <td><b>AI and ML Research</b></td>
-<td><b>Independent and collaborative research projects</b><br>Computational psychiatry, clinical prediction, multimodal health AI, explainability, uncertainty, privacy aware learning, and statistical evaluation.</td>
+<td><b>Independent and collaborative research projects</b><br>Computational psychiatry, clinical prediction, multimodal health AI, explainability, uncertainty, privacy aware learning, and statist[...]
 </tr>
 <tr>
 <td><b>Applied Engineering</b></td>
-<td><b>Safety critical construction and project supervision</b><br>Inspection, compliance, risk identification, technical reporting, quality monitoring, and coordination across real world project constraints.</td>
+<td><b>Safety critical construction and project supervision</b><br>Inspection, compliance, risk identification, technical reporting, quality monitoring, and coordination across real world project[...]
 </tr>
 </table>
 
 ## Education
 
 <table>
-<tr><td width="24%"><b>MSc</b></td><td><b>Computer Engineering, Artificial Intelligence</b><br>University of Genoa, Italy<br>Machine learning, deep learning, advanced data management, statistical model comparison, and AI research.</td></tr>
-<tr><td><b>Bachelor degree</b></td><td><b>Information Engineering</b><br>Jiangxi University of Science and Technology, China<br>Computing, programming, information systems, communications, and engineering foundations.</td></tr>
+<tr><td width="24%"><b>MSc</b></td><td><b>Computer Engineering, Artificial Intelligence</b><br>University of Genoa, Italy<br>Machine learning, deep learning, advanced data management, statistical[...]
+<tr><td><b>Bachelor degree</b></td><td><b>Information Engineering</b><br>Jiangxi University of Science and Technology, China<br>Computing, programming, information systems, communications, and en[...]
 </table>
 
 ## Technical stack
@@ -245,7 +313,7 @@ This methodology directly influences how I evaluate psychiatric, clinical, and b
 
 ## Publications and research outputs
 
-My research outputs cover machine learning, healthcare, psychology, behavioural computing, and statistically rigorous model evaluation. The current publication list, citations, and co authorship record are available on **[Google Scholar](https://scholar.google.com/citations?user=cQ_zolQAAAAJ)**.
+My research outputs cover machine learning, healthcare, psychology, behavioural computing, and statistically rigorous model evaluation. The current publication list, citations, and co authorship [...]
 
 Current collaboration interests include:
 
