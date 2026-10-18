@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
   </a>
 
-  <a href="https://komarev.com/ghpvc/?username=Foysal-A-Al&amp;style=for-the-badge&amp;color=6d5dfc&amp;label=PROFILE+VIEWS" title="Live profile view counter">
-    <img src="https://images.weserv.nl/?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DFoysal-A-Al%26style%3Dfor-the-badge%26color%3D6d5dfc%26label%3DPROFILE%2BVIEWS&amp;output=png&amp;maxage=1m" alt="Profile views" />
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Foysal-A-Al.Foysal-A-Al&amp;left_color=%23555&amp;right_color=%236d5dfc&amp;left_text=Profile%20views" title="Live profile view counter">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Foysal-A-Al.Foysal-A-Al&amp;left_color=%23555&amp;right_color=%236d5dfc&amp;left_text=Profile%20views" height="28" alt="Profile views" />
   </a>
 </p>
 
