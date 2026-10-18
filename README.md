@@ -19,8 +19,11 @@
     <img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Foysal-A-Al&style=for-the-badge&color=6d5dfc&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Foysal-A-Al&amp;style=for-the-badge&amp;color=6d5dfc&amp;label=PROFILE+VIEWS&amp;base=4000" title="Live counter with a user-set starting offset of 4,000">
+    <img src="https://komarev.com/ghpvc/?username=Foysal-A-Al&amp;style=for-the-badge&amp;color=6d5dfc&amp;label=PROFILE+VIEWS&amp;base=4000" alt="Profile views (includes a 4,000 starting offset)" />
+  </a>
 </p>
+<p align="center"><sub>View counter includes a 4,000 starting offset. Counts are approximate.</sub></p>
 
 <table>
 <tr>
