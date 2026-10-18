@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
   </a>
 
-  <a href="https://komarev.com/ghpvc/?username=Foysal-A-Al&amp;label=Profile%20views&amp;color=6d5dfc&amp;style=for-the-badge&amp;base=4000&amp;v=20261018" title="Live counter with a user-set starting offset of 4,000">
-    <img src="https://images.weserv.nl/?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DFoysal-A-Al%26base%3D4000%26style%3Dfor-the-badge%26color%3D6d5dfc%26label%3DPROFILE%2BVIEWS&amp;output=png&amp;maxage=1m" alt="Profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Foysal-A-Al&amp;style=for-the-badge&amp;color=6d5dfc&amp;label=PROFILE+VIEWS" title="Live profile view counter">
+    <img src="https://images.weserv.nl/?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DFoysal-A-Al%26style%3Dfor-the-badge%26color%3D6d5dfc%26label%3DPROFILE%2BVIEWS&amp;output=png&amp;maxage=1m" alt="Profile views" />
   </a>
 </p>
 
