@@ -19,9 +19,6 @@
     <img src="https://img.shields.io/badge/Portfolio-071426?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
   </a>
 
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Foysal-A-Al.Foysal-A-Al&amp;left_color=%23555&amp;right_color=%236d5dfc&amp;left_text=Profile%20views" title="Live profile view counter">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Foysal-A-Al.Foysal-A-Al&amp;left_color=%23555&amp;right_color=%236d5dfc&amp;left_text=Profile%20views" height="28" alt="Profile views" />
-  </a>
 </p>
 
 <table>
